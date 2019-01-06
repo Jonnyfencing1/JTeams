@@ -3,3 +3,6 @@ C:\Users\conne\source\repos\JTeams\JTeams\bin\Debug\JTeams.pdb
 C:\Users\conne\source\repos\JTeams\JTeams\obj\Debug\JTeams.csproj.CoreCompileInputs.cache
 C:\Users\conne\source\repos\JTeams\JTeams\obj\Debug\JTeams.dll
 C:\Users\conne\source\repos\JTeams\JTeams\obj\Debug\JTeams.pdb
+C:\Users\conne\source\repos\JTeams\JTeams\bin\Release\JTeams.dll
+C:\Users\conne\source\repos\JTeams\JTeams\bin\Release\JTeams.pdb
+C:\Users\conne\source\repos\JTeams\JTeams\obj\Debug\JTeams.csprojAssemblyReference.cache
